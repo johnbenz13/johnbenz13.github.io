@@ -198,7 +198,7 @@ so let's see what this folder contains.
     total 8
     -r--r--r--  1 john  staff  165 29 aoû 00:43 02d9d08f376389283ecd7e37a3240d7e08db54
 
-Seems like the rest of our commit's sha1. Even afte deleting the only branch
+Seems like the rest of our commit's sha1. Even after deleting the only branch
 where this commit was, we can see that it is still present in Git. If you're
 still not convinced, try that:  
 
